@@ -3,5 +3,5 @@
     "branch_name": "sample_branch",
     "dataset_name": "sample_dataset",
     "description": "sample push",
-    "path": "samples/"
+    "path": "qa_data/"
 }
